@@ -1,0 +1,90 @@
+
+/* --------------------------------------
+   Navbar
+   -------------------------------------- */
+#imag{
+  width:100px;
+  height:50px;
+}
+.navicon{
+padding-right: 300px;
+}
+/* --------------------------------------
+   jumbotron
+   -------------------------------------- */
+.jumbotron{
+   margin-bottom: 0px;
+   background-image: url(../../images/image.png);
+   background-repeat: no-repeat;
+   color:pink;
+   min-height:500px;
+   margin-top: 90px;
+}
+/* --------------------------------------
+   callout
+   -------------------------------------- */
+#call{
+width: 300px;
+}
+
+/* --------------------------------------
+    Styles
+   -------------------------------------- */
+   #head
+   {
+    font-size: 25px;
+    font-family: 'Cormorant Garamond', serif;
+    letter-spacing: 2px;
+    padding-top: 5px;
+   }
+   #imgid
+   {
+    margin-left: 40%;
+    margin-top: 100px;
+   }
+#tab1 p{
+     margin-top: 20px;
+     font-family: sans-serif;
+     line-height: 30px;
+     font-size: 15px;
+   }
+#tab2 p{
+  font-family: sans-serif;
+  line-height: 30px;
+  font-size: 15px;
+
+}
+#overview{
+  font-family: sans-serif;
+  line-height: 30px;
+  font-size: 15px;
+
+}
+#featuresheading{
+  font-family: sans-serif;
+
+
+}
+
+#feat,#feat1{
+  margin-right: 20px;
+  text-align: center;
+}
+#feat,#feat1 img{
+  margin:0 0 20px;
+
+}
+   /* --------------------------------------
+      footer
+      -------------------------------------- */
+footer{
+     background: #333;
+     color: #eee;
+     font-size: 11px;
+     padding: 20px;
+     margin-top: 20px;
+   }
+   ul.unstyled{
+     list-style: none;
+     padding: 0px;
+   }
